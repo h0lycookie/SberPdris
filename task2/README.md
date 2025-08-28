@@ -1,4 +1,5 @@
 # Ansible practice
+An example of deploying simple client-server application with Ansible.
 
 ## How to launch
 ```
