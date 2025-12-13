@@ -1,0 +1,13 @@
+# Jenkins
+A simple application was written in Java, built by Maven.
+Tools for Maven, SonarQube Scanner, Docker, plugins for Allure, SonarQube Scanner and Docker were configured.
+
+
+Jenkins main screen:
+![jenkins_main](/task4/pictures/jenkins_main.png).
+
+Allure:
+![allure](/task4/pictures/allure.png).
+
+Sonar:
+![sonar](/task4/pictures/sonar.png).
